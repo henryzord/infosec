@@ -7,12 +7,28 @@ Material para a Prova Didática do Concurso Docente para professor Adjunto do Ce
 
 ## Sumário
 
-* [Conteúdos](#conteúdos)
+* [Estrutura da Disciplina](#estrutura-da-disciplina)
 * [Slides](src/README.md)
 * [Resumos](resumos/README.md)
 * [Recursos adicionais](#recursos-adicionais)
 * [Instruções (para o professor)](instruções_professor.md)
 * [Bibliografia](#bibliografia)
+
+## Estrutura da disciplina
+
+* Entrega pontual dos trabalhos
+* Plágios não serão tolerados
+    * Copiou material da Internet e o professor descobriu?
+    * **Nota zero!**
+* 4 avaliações
+    * 2 provas, 2 trabalhos
+    * Mesmo peso para todas as atividades (25% da nota do semestre)
+* **O aluno deve aprender a aprender**
+    * Hábito de estudar os tópicos com antecedência
+* **Discilina reprova por presença**
+    * Mínimo de 75% de presença
+* Tira-dúvidas dos conteúdos e trabalhos: durante a aula ou por e-mail (henry.cagnini@gmail.com)
+    * Ver horários presenciais na [página do professor]()
 
 ## Recursos adicionais
 
