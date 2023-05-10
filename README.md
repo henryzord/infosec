@@ -8,6 +8,7 @@ Material para a Prova Didática do Concurso Docente para professor Adjunto do Ce
 ## Sumário
 
 * [Conteúdos](#conteúdos)
+* [Slides](src/README.md)
 * [Resumos](resumos/README.md)
 * [Recursos adicionais](#recursos-adicionais)
 * [Instruções (para o professor)](instruções_professor.md)

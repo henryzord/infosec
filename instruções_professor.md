@@ -8,11 +8,11 @@ Para gerar os slides da aula, siga o seguinte passo-a-passo:
 2. Digite o seguinte comando no console:
 
    ```bash
-   jupyter nbconvert --to slides slides.ipynb
+   jupyter nbconvert --to slides aula_2.ipynb --output "aula_2" --output-dir="../docs"
    ``` 
 
 3. Caso você queira gerar os slides e vê-los imediatamente, digite o seguinte comando:
    
    ```bash
-   jupyter nbconvert --to slides slides.ipynb --post serve
+   jupyter nbconvert --to slides aula_2.ipynb --output "aula_2" --output-dir="../docs" --post serve
    ``` 
