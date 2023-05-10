@@ -27,13 +27,15 @@ sistema construam uma relação de confiança com o mesmo. A quebra de confidenc
 como venda ilegal de informações no mercado negro, chantagem (inclusive na forma de vírus de computador, chamados 
 randomwares), perda de vantagem comercial (quando tratando-se de informações sobre uma empresa), dentre outros. Uma
 maneira de garantir a confidencialidade é a aplicação de controle de acesso às informações, bem como a criptografia.
+
 A disponibilidade garante que as informações estarão disponíveis no momento em que forem necessárias, ou que a 
 comunicação entre dois entes seja possível assim que necessária. Existem ataques voltados à negação da disponibilidade, 
-como o Denial-of-Service, que será abordado em maiores detalhes na Seção 6.2.4. A interrupção da disponibilidade pode 
-acarretar desde transtornos para usuários individuais, quanto perda de dinheiro para empresas ou negócios, visto que 
-estas não podem executar normalmente seu trabalho. Garante-se a disponibilidade de informações através de redundância, 
-como manter cópias de registros em diversos servidores. Isto reduz as chances de que um ataque seja bem-sucedido na 
-negação de serviços, por exemplo, por aumentar o custo do ataque (mais servidores para atacar).
+como o Denial-of-Service, que será abordado em maiores detalhes na Seção 
+[Denial of Service](ameaças.md#denial-of-service). A interrupção da disponibilidade pode acarretar desde transtornos 
+para usuários individuais, quanto perda de dinheiro para empresas ou negócios, visto que estas não podem executar 
+normalmente seu trabalho. Garante-se a disponibilidade de informações através de redundância, como manter cópias de 
+registros em diversos servidores. Isto reduz as chances de que um ataque seja bem-sucedido na negação de serviços, por 
+exemplo, por aumentar o custo do ataque (mais servidores para atacar).
 
 Finalmente, a integridade de informações garante que estas não foram modificadas ou destruídas, intencionalmente ou 
 acidentalmente, por entes terceiros ou outros fenômenos (e.g. quedas de energia). A integridade é garantida através do 

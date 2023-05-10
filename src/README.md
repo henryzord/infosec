@@ -8,4 +8,4 @@ Este diretório contém o código-fonte dos slides utilizados em aula. Para ver 
 Esta seção contém os slides compilados para as aulas.
 
 * [Aula 1 - Contrato didático]()
-* [Aula 2 - O que é Segurança da Informação](../docs/aula_2.slides.html)
+* [Aula 2 - O que é Segurança da Informação](https://henryzord.github.io/infosec/aula_2.slides.html)
