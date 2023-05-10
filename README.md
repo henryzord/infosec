@@ -14,6 +14,12 @@ Material para a Prova Didática do Concurso Docente para professor Adjunto do Ce
 * [Instruções (para o professor)](instruções_professor.md)
 * [Bibliografia](#bibliografia)
 
+## Recursos adicionais
+
+### Vídeos
+
+* [Porque a China está perdendo a guerra de microchips (legendado)](https://www.youtube.com/watch?v=Uh4QGey2zTk)
+
 ## Bibliografia
 
 Todos os livros estão disponíveis no [Serviço de Descoberta do SiB-UFSM](https://www.ufsm.br/orgaos-suplementares/biblioteca).
